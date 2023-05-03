@@ -1,0 +1,3 @@
+cvb 456,Skoda,ford,2022,anna,Lester
+cvb 123,Skoda,twingo,2022,anna,Lester
+cvb 678,Skoda,kia,2022,anna,Lester
